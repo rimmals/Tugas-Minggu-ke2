@@ -1,9 +1,9 @@
 # Tugas-Minggu-ke2
 ## ATM.java ##
 ![ATM java](https://github.com/rimmals/Tugas-Minggu-ke2/assets/75564546/90f9c558-108f-480d-8784-7013e7597260)
-## ATMTest##
+## ATMTest ##
 ![ATMTest](https://github.com/rimmals/Tugas-Minggu-ke2/assets/75564546/238e4131-96b6-46c1-bccc-69af2934ff7e)
-## ATMTest_lihatSaldo##
+## ATMTest_lihatSaldo ##
 ![ATMTest_lihatSaldo](https://github.com/rimmals/Tugas-Minggu-ke2/assets/75564546/788fdd4d-200d-4f4b-afe1-a0c36f66f2b2)
 ## Menambah jumlah setoran ##
 ![Menambah jumlah setoran](https://github.com/rimmals/Tugas-Minggu-ke2/assets/75564546/d306bacf-4f63-4e05-a168-d880d6309a94)
